@@ -36,4 +36,5 @@ firstPRMergeComment: >
 ### Example Messages
 
 CONFIGS PLACEHOLDER
-- Welcome Message
+- Welcome to our repository! Thanks for adding an issue, if you are reporting a bug or a feature request, please make sure to assign a label to this issue.
+- Thank you for submitting a pull request to our repository. If this change is based on an existing issue, please reference that issue in the pull request comment using Closes #x where X is the issue number.
